@@ -14,7 +14,7 @@ C++, XQuartz, freeGLUT
 
 ## Building (MacOS and Windows)
 
-You will need to dowwnload [XQuartz](https://www.xquartz.org/) and [freeGLUT](https://freeglut.sourceforge.net/).
+You will need to download [XQuartz](https://www.xquartz.org/) and [freeGLUT](https://freeglut.sourceforge.net/).
 
 First, clone the repository and change into the appropriate directory:
 
