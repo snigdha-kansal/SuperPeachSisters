@@ -20,7 +20,7 @@ First, clone the repository and change into the appropriate directory:
 
 ```
 $ git clone https://github.com/snigdha-kansal/SuperPeachSisters.git
-$ cd SuperPeachSisters
+$ cd SuperPeachSisters/SuperPeachSisters
 ```
 
 Next, build the executable:
