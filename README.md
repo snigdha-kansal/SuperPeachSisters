@@ -1,6 +1,6 @@
 # SuperPeachSisters
 
-Repository for Super Peach Sisters, a video game I built using C++ for CS 32 during Winter 2023 at UCLA.
+Repository for Super Peach Sisters, a video game I built using C++ for CS 32 during Winter 2022 at UCLA.
 
 ## Overview
 
